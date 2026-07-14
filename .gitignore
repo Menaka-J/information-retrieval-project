@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+build/
+embeddings/*.npy
+embeddings/*.index
+.vscode/
+.DS_Store
+*.log
