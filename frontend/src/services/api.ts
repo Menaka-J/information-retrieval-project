@@ -7,6 +7,7 @@ export interface SearchResult {
   title: string;
   abstract: string;
   score: number;
+  normalized_score: number;
   method: string;
 }
 
